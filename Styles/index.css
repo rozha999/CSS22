@@ -10,10 +10,10 @@ div{
     margin: 16px;
     height: min-content;
     width: min-content;
-    background: rgb(70, 180, 169);
+    background: rgb(70, 85, 180);
     font-size: 66px;
     padding: 66px;
-    border: 40px solid rgb(52, 11, 11);
+    border: 40px solid rgb(11, 13, 52);
 }
 
 body > div {
@@ -25,8 +25,8 @@ figure{
     width: 300px;
     margin: 20px auto;
     padding: 10px;
-    background-color: rgb(216, 233, 144);
-    border: 1px solid rosybrown;
+    background-color: rgb(144, 172, 233);
+    border: 10px solid rgb(7, 20, 1);
     border-radius: 6px;
 }
 
